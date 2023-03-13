@@ -19,6 +19,7 @@ Run the program: Type node filename.js in the command prompt or terminal window,
 
 View the output: If the program runs successfully, you should see the output in the command prompt or terminal window. In the case of the binary search algorithm, the output would be the index of the target value in the array, or -1 if the target value is not found.
 
+
 # 1 : Binary Search
 
 This implementation takes an array (arr) and a target value (target) as inputs and returns the index of the target value in the array, or -1 if the target value is not found.
